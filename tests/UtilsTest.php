@@ -3,6 +3,7 @@
 namespace Hexlet\PHPunit\Tests;
 
 use PHPUnit\Framework\TestCase;
+
 use function Hexlet\Phpunit\Utils\reverseString;
 
 class UtilsTest extends TestCase
