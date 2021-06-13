@@ -1,0 +1,27 @@
+<?php
+
+namespace Hexlet\Phpunit\Stack;
+
+use mysql_xdevapi\Exception;
+
+function make(): array
+{
+    return [];
+}
+function isEmpty(array $stack): bool
+{
+    return count($stack) === 0;
+}
+
+function push(array &$stack, string $element): void
+{
+    array_push($stack, $element);
+}
+
+function pop(array &$stack): string
+{
+    if (isEmpty($stack)) {
+        throw new Exception("Stack is empty");
+    }
+    return array_pop($stack);
+}
