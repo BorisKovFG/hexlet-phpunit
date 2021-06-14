@@ -1,11 +1,9 @@
 # php-package
 
-[![Github Actions Status](https://github.com/hexlet-boilerplates/php-package/workflows/PHP%20CI/badge.svg)](https://github.com/hexlet-boilerplates/php-package/actions)
-[![Code Climate](https://codeclimate.com/github/hexlet-boilerplates/php-package/badges/gpa.svg)](https://codeclimate.com/github/hexlet-boilerplates/php-package)
-[![Issue Count](https://codeclimate.com/github/hexlet-boilerplates/php-package/badges/issue_count.svg)](https://codeclimate.com/github/hexlet-boilerplates/php-package/issues)
-[![Test Coverage](https://codeclimate.com/github/hexlet-boilerplates/php-package/badges/coverage.svg)](https://codeclimate.com/github/hexlet-boilerplates/php-package/coverage)
+![example workflow](https://github.com/BorisKovFG/hexlet-phpunit/actions/workflows/workflow.yml/badge.svg)
+[![Maintainability](https://api.codeclimate.com/v1/badges/c8dae6b1e59632eaeef2/maintainability)](https://codeclimate.com/github/BorisKovFG/hexlet-phpunit/maintainability)
 
-[![Hexlet Ltd. logo](https://raw.githubusercontent.com/Hexlet/hexletguides.github.io/master/images/hexlet_logo128.png)](https://ru.hexlet.io/pages/about?utm_source=github&utm_medium=link&utm_campaign=php-package)
+[![Hexlet Ltd. logo](https://s3.eu-central-1.amazonaws.com/trengo/media/hc_logo_7mGzDWVpE2.png)](https://ru.hexlet.io/pages/about?utm_source=github&utm_medium=link&utm_campaign=php-package)
 
 This repository is created and maintained by the team and the community of Hexlet, an educational project. [Read more about Hexlet (in Russian)](https://ru.hexlet.io/pages/about?utm_source=github&utm_medium=link&utm_campaign=php-package).
 
